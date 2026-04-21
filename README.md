@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tunggf1711/tunggf1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Magento developer with real-world experience  
+Currently exploring .NET and backend systems ⚙️  
 
-Here are some ideas to get you started:
+## 🧰 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Magento 2
+- PHP
+- SQL Server / MySQL
+- Git
+
+## 🌱 Currently learning
+
+- .NET
+- Backend architecture
+- System design
+
+## 🐛 Fun fact
+
+Works on my machine 🤷‍♂️
